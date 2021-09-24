@@ -11,6 +11,9 @@
     <!-- Load d3.js -->
     <script src="https://d3js.org/d3.v6.js"></script>
 
+    <!-- Create a div with status info -->
+    <div id="status"></div>
+
     <!-- Create a div where the graph will take place -->
     <div id="my_dataviz"></div>
 
@@ -29,10 +32,15 @@
         .append("g")
         .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
-      d3.json(
-        "https://raw.githubusercontent.com/christophajohns/explorative-information-visualization/master/graph.json"
-      ).then(function (data) {
+      async function draw_graph() {
+        // Load data
+        document.querySelector("#status").innerHTML = "Loading data...";
+        const data = await d3.json(
+          "https://raw.githubusercontent.com/christophajohns/explorative-information-visualization/master/graph.json"
+        );
+
         // Initialize the links
+        document.querySelector("#status").innerHTML = "Initializing links...";
         const link = svg
           .selectAll("line")
           .data(data.links)
@@ -40,6 +48,7 @@
           .style("stroke", "#aaa");
 
         // Initialize the nodes
+        document.querySelector("#status").innerHTML = "Initializing nodes...";
         const node = svg
           .selectAll("circle")
           .data(data.nodes)
@@ -48,15 +57,15 @@
           .style("fill", "#69b3a2");
 
         // Let's list the force we wanna apply on the network
+        document.querySelector("#status").innerHTML =
+          "Initializing simulation...";
         const simulation = d3
           .forceSimulation(data.nodes) // Force algorithm is applied to data.nodes
           .force(
             "link",
             d3
               .forceLink() // This force provides links between nodes
-              .id(function (d) {
-                return d.id;
-              }) // This provide  the id of a node
+              .id((d) => d.id) // This provide  the id of a node
               .links(data.links) // and this the list of links
           )
           .force("charge", d3.forceManyBody().strength(-400)) // This adds repulsion between nodes. Play with the -400 for the repulsion strength
@@ -66,28 +75,18 @@
         // This function is run at each iteration of the force algorithm, updating the nodes position.
         function ticked() {
           link
-            .attr("x1", function (d) {
-              return d.source.x;
-            })
-            .attr("y1", function (d) {
-              return d.source.y;
-            })
-            .attr("x2", function (d) {
-              return d.target.x;
-            })
-            .attr("y2", function (d) {
-              return d.target.y;
-            });
+            .attr("x1", (d) => d.source.x)
+            .attr("y1", (d) => d.source.y)
+            .attr("x2", (d) => d.target.x)
+            .attr("y2", (d) => d.target.y);
 
-          node
-            .attr("cx", function (d) {
-              return d.x + 6;
-            })
-            .attr("cy", function (d) {
-              return d.y - 6;
-            });
+          node.attr("cx", (d) => d.x + 6).attr("cy", (d) => d.y - 6);
         }
-      });
+
+        document.querySelector("#status").innerHTML = "Loading...";
+      }
+
+      draw_graph();
     </script>
   </body>
 </html>
