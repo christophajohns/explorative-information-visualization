@@ -7,9 +7,21 @@
             "year_of_death": null
         },
         {
+            "id": 126392,
+            "name": "JAAN KIVIMÄGI",
+            "year_of_birth": 1935.0,
+            "year_of_death": 2001.0
+        },
+        {
             "id": 126412,
             "name": "REET PAU",
             "year_of_birth": 1943.0,
+            "year_of_death": null
+        },
+        {
+            "id": 126413,
+            "name": "JAAN PAU",
+            "year_of_birth": 1941.0,
             "year_of_death": null
         },
         {
@@ -19,9 +31,21 @@
             "year_of_death": null
         },
         {
+            "id": 126431,
+            "name": "MAILI KOOR",
+            "year_of_birth": 1947.0,
+            "year_of_death": null
+        },
+        {
             "id": 126464,
             "name": "ALMA KARJUS",
             "year_of_birth": 1897.0,
+            "year_of_death": null
+        },
+        {
+            "id": 126465,
+            "name": "JAAN KARJUS",
+            "year_of_birth": 1925.0,
             "year_of_death": null
         },
         {
@@ -31,9 +55,21 @@
             "year_of_death": null
         },
         {
+            "id": 126485,
+            "name": "JUULI VARB",
+            "year_of_birth": 1911.0,
+            "year_of_death": 2001.0
+        },
+        {
             "id": 126531,
             "name": "VAIKE SAARVA",
             "year_of_birth": 1939.0,
+            "year_of_death": null
+        },
+        {
+            "id": 126532,
+            "name": "OLEV SAARVA",
+            "year_of_birth": 1941.0,
             "year_of_death": null
         },
         {
@@ -43,10 +79,22 @@
             "year_of_death": null
         },
         {
+            "id": 126542,
+            "name": "ZINAIDA TIISLER",
+            "year_of_birth": 1919.0,
+            "year_of_death": 2010.0
+        },
+        {
             "id": 126615,
             "name": "SALME PIIBELEHT",
             "year_of_birth": 1915.0,
             "year_of_death": 2004.0
+        },
+        {
+            "id": 126616,
+            "name": "MAIRE PIIBELEHT",
+            "year_of_birth": 1945.0,
+            "year_of_death": null
         },
         {
             "id": 126623,
@@ -55,9 +103,21 @@
             "year_of_death": null
         },
         {
+            "id": 126624,
+            "name": "HEIMAR LIIV",
+            "year_of_birth": 1929.0,
+            "year_of_death": 1977.0
+        },
+        {
             "id": 126653,
             "name": "ADA PARKAS",
             "year_of_birth": 1914.0,
+            "year_of_death": null
+        },
+        {
+            "id": 126655,
+            "name": "JUHAN PARKAS",
+            "year_of_birth": 1867.0,
             "year_of_death": null
         }
     ],
