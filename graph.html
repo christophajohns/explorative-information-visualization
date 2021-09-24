@@ -59,6 +59,7 @@
         // Let's list the force we wanna apply on the network
         document.querySelector("#status").innerHTML =
           "Initializing simulation...";
+        console.log({ data });
         const simulation = d3
           .forceSimulation(data.nodes) // Force algorithm is applied to data.nodes
           .force(
