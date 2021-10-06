@@ -4,121 +4,181 @@
             "id": 126391,
             "name": "LEMBIT KIVIMÄGI",
             "year_of_birth": 1936.0,
-            "year_of_death": null
+            "year_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2283"
         },
         {
             "id": 126392,
             "name": "JAAN KIVIMÄGI",
             "year_of_birth": 1935.0,
-            "year_of_death": 2001.0
+            "year_of_death": 2001.0,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2283"
         },
         {
             "id": 126412,
             "name": "REET PAU",
             "year_of_birth": 1943.0,
-            "year_of_death": null
+            "year_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2293"
         },
         {
             "id": 126413,
             "name": "JAAN PAU",
             "year_of_birth": 1941.0,
-            "year_of_death": null
+            "year_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2293"
         },
         {
             "id": 126430,
             "name": "ERMIINE KOOR",
             "year_of_birth": 1902.0,
-            "year_of_death": null
+            "year_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2305"
         },
         {
             "id": 126431,
             "name": "MAILI KOOR",
             "year_of_birth": 1947.0,
-            "year_of_death": null
+            "year_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2305"
         },
         {
             "id": 126464,
             "name": "ALMA KARJUS",
             "year_of_birth": 1897.0,
-            "year_of_death": null
+            "year_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2330"
         },
         {
             "id": 126465,
             "name": "JAAN KARJUS",
             "year_of_birth": 1925.0,
-            "year_of_death": null
+            "year_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2330"
         },
         {
             "id": 126484,
             "name": "JEFROSINJA KALDVEE",
             "year_of_birth": 1913.0,
-            "year_of_death": null
+            "year_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2346"
         },
         {
             "id": 126485,
             "name": "JUULI VARB",
             "year_of_birth": 1911.0,
-            "year_of_death": 2001.0
+            "year_of_death": 2001.0,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2346"
         },
         {
             "id": 126531,
             "name": "VAIKE SAARVA",
             "year_of_birth": 1939.0,
-            "year_of_death": null
+            "year_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2377"
         },
         {
             "id": 126532,
             "name": "OLEV SAARVA",
             "year_of_birth": 1941.0,
-            "year_of_death": null
+            "year_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2377"
         },
         {
             "id": 126541,
             "name": "TIIU TIISLER",
             "year_of_birth": 1955.0,
-            "year_of_death": null
+            "year_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2387"
         },
         {
             "id": 126542,
             "name": "ZINAIDA TIISLER",
             "year_of_birth": 1919.0,
-            "year_of_death": 2010.0
+            "year_of_death": 2010.0,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2387"
         },
         {
             "id": 126615,
             "name": "SALME PIIBELEHT",
             "year_of_birth": 1915.0,
-            "year_of_death": 2004.0
+            "year_of_death": 2004.0,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2444"
         },
         {
             "id": 126616,
             "name": "MAIRE PIIBELEHT",
             "year_of_birth": 1945.0,
-            "year_of_death": null
+            "year_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2444"
         },
         {
             "id": 126623,
             "name": "ANNA KAUN",
             "year_of_birth": 1875.0,
-            "year_of_death": null
+            "year_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2452"
         },
         {
             "id": 126624,
             "name": "HEIMAR LIIV",
             "year_of_birth": 1929.0,
-            "year_of_death": 1977.0
+            "year_of_death": 1977.0,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2452"
         },
         {
             "id": 126653,
             "name": "ADA PARKAS",
             "year_of_birth": 1914.0,
-            "year_of_death": null
+            "year_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2478"
         },
         {
             "id": 126655,
             "name": "JUHAN PARKAS",
             "year_of_birth": 1867.0,
-            "year_of_death": null
+            "year_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2478"
         }
     ],
     "links": [
