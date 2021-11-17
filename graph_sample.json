@@ -1,100 +1,21 @@
 {
     "nodes": [
         {
-            "id": 126391,
-            "name": "LEMBIT KIVIMÄGI",
-            "year_of_birth": 1936.0,
+            "id": 126877,
+            "name": "ILMAR ARANDI",
+            "year_of_birth": 1922,
             "year_of_death": null,
+            "age_of_death": null,
             "has_tombstone": false,
             "was_officer": false,
-            "family_book": "R5-2283"
-        },
-        {
-            "id": 126392,
-            "name": "JAAN KIVIMÄGI",
-            "year_of_birth": 1935.0,
-            "year_of_death": 2001.0,
-            "has_tombstone": false,
-            "was_officer": false,
-            "family_book": "R5-2283"
-        },
-        {
-            "id": 126412,
-            "name": "REET PAU",
-            "year_of_birth": 1943.0,
-            "year_of_death": null,
-            "has_tombstone": false,
-            "was_officer": false,
-            "family_book": "R5-2293"
-        },
-        {
-            "id": 126413,
-            "name": "JAAN PAU",
-            "year_of_birth": 1941.0,
-            "year_of_death": null,
-            "has_tombstone": false,
-            "was_officer": false,
-            "family_book": "R5-2293"
-        },
-        {
-            "id": 126430,
-            "name": "ERMIINE KOOR",
-            "year_of_birth": 1902.0,
-            "year_of_death": null,
-            "has_tombstone": false,
-            "was_officer": false,
-            "family_book": "R5-2305"
-        },
-        {
-            "id": 126431,
-            "name": "MAILI KOOR",
-            "year_of_birth": 1947.0,
-            "year_of_death": null,
-            "has_tombstone": false,
-            "was_officer": false,
-            "family_book": "R5-2305"
-        },
-        {
-            "id": 126464,
-            "name": "ALMA KARJUS",
-            "year_of_birth": 1897.0,
-            "year_of_death": null,
-            "has_tombstone": false,
-            "was_officer": false,
-            "family_book": "R5-2330"
-        },
-        {
-            "id": 126465,
-            "name": "JAAN KARJUS",
-            "year_of_birth": 1925.0,
-            "year_of_death": null,
-            "has_tombstone": false,
-            "was_officer": false,
-            "family_book": "R5-2330"
-        },
-        {
-            "id": 126484,
-            "name": "JEFROSINJA KALDVEE",
-            "year_of_birth": 1913.0,
-            "year_of_death": null,
-            "has_tombstone": false,
-            "was_officer": false,
-            "family_book": "R5-2346"
-        },
-        {
-            "id": 126485,
-            "name": "JUULI VARB",
-            "year_of_birth": 1911.0,
-            "year_of_death": 2001.0,
-            "has_tombstone": false,
-            "was_officer": false,
-            "family_book": "R5-2346"
+            "family_book": "EMI-0014"
         },
         {
             "id": 126531,
             "name": "VAIKE SAARVA",
-            "year_of_birth": 1939.0,
+            "year_of_birth": 1939,
             "year_of_death": null,
+            "age_of_death": null,
             "has_tombstone": false,
             "was_officer": false,
             "family_book": "R5-2377"
@@ -102,26 +23,29 @@
         {
             "id": 126532,
             "name": "OLEV SAARVA",
-            "year_of_birth": 1941.0,
+            "year_of_birth": 1941,
             "year_of_death": null,
+            "age_of_death": null,
             "has_tombstone": false,
             "was_officer": false,
             "family_book": "R5-2377"
         },
         {
-            "id": 126541,
-            "name": "TIIU TIISLER",
-            "year_of_birth": 1955.0,
-            "year_of_death": null,
+            "id": 126542,
+            "name": "ZINAIDA TIISLER",
+            "year_of_birth": 1919,
+            "year_of_death": 2010.0,
+            "age_of_death": 91.0,
             "has_tombstone": false,
             "was_officer": false,
             "family_book": "R5-2387"
         },
         {
-            "id": 126542,
-            "name": "ZINAIDA TIISLER",
-            "year_of_birth": 1919.0,
-            "year_of_death": 2010.0,
+            "id": 126541,
+            "name": "TIIU TIISLER",
+            "year_of_birth": 1955,
+            "year_of_death": null,
+            "age_of_death": null,
             "has_tombstone": false,
             "was_officer": false,
             "family_book": "R5-2387"
@@ -129,8 +53,9 @@
         {
             "id": 126615,
             "name": "SALME PIIBELEHT",
-            "year_of_birth": 1915.0,
+            "year_of_birth": 1915,
             "year_of_death": 2004.0,
+            "age_of_death": 89.0,
             "has_tombstone": false,
             "was_officer": false,
             "family_book": "R5-2444"
@@ -138,70 +63,115 @@
         {
             "id": 126616,
             "name": "MAIRE PIIBELEHT",
-            "year_of_birth": 1945.0,
+            "year_of_birth": 1945,
             "year_of_death": null,
+            "age_of_death": null,
             "has_tombstone": false,
             "was_officer": false,
             "family_book": "R5-2444"
         },
         {
-            "id": 126623,
-            "name": "ANNA KAUN",
-            "year_of_birth": 1875.0,
-            "year_of_death": null,
+            "id": 126692,
+            "name": "AUGUST RAAG",
+            "year_of_birth": 1890,
+            "year_of_death": 1968.0,
+            "age_of_death": 78.0,
             "has_tombstone": false,
             "was_officer": false,
-            "family_book": "R5-2452"
+            "family_book": "R5-2513"
         },
         {
-            "id": 126624,
-            "name": "HEIMAR LIIV",
-            "year_of_birth": 1929.0,
-            "year_of_death": 1977.0,
+            "id": 126693,
+            "name": "HILDA RAAG",
+            "year_of_birth": 1892,
+            "year_of_death": 1973.0,
+            "age_of_death": 81.0,
             "has_tombstone": false,
             "was_officer": false,
-            "family_book": "R5-2452"
+            "family_book": "R5-2513"
         },
         {
-            "id": 126653,
-            "name": "ADA PARKAS",
-            "year_of_birth": 1914.0,
-            "year_of_death": null,
+            "id": 126717,
+            "name": "ARVO LILLEORG",
+            "year_of_birth": 1930,
+            "year_of_death": 2007.0,
+            "age_of_death": 77.0,
             "has_tombstone": false,
             "was_officer": false,
-            "family_book": "R5-2478"
+            "family_book": "R5-2529"
         },
         {
-            "id": 126655,
-            "name": "JUHAN PARKAS",
-            "year_of_birth": 1867.0,
+            "id": 126718,
+            "name": "VALDEK LILLEORG",
+            "year_of_birth": 1935,
             "year_of_death": null,
+            "age_of_death": null,
             "has_tombstone": false,
             "was_officer": false,
-            "family_book": "R5-2478"
+            "family_book": "R5-2529"
+        },
+        {
+            "id": 126859,
+            "name": "SILVA LAIDMA",
+            "year_of_birth": 1936,
+            "year_of_death": null,
+            "age_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2652"
+        },
+        {
+            "id": 126858,
+            "name": "IGOR LAIDMA",
+            "year_of_birth": 1948,
+            "year_of_death": null,
+            "age_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2652"
+        },
+        {
+            "id": 126876,
+            "name": "VELLO KÜNGAS",
+            "year_of_birth": 1947,
+            "year_of_death": 2016.0,
+            "age_of_death": 69.0,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2666"
+        },
+        {
+            "id": 126951,
+            "name": "AULI PALM",
+            "year_of_birth": 1900,
+            "year_of_death": 1982.0,
+            "age_of_death": 82.0,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2715"
+        },
+        {
+            "id": 126949,
+            "name": "MAIMU VÄLIMETS",
+            "year_of_birth": 1941,
+            "year_of_death": null,
+            "age_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2715"
+        },
+        {
+            "id": 126950,
+            "name": "MAIRE VÄLIMETS",
+            "year_of_birth": 1943,
+            "year_of_death": null,
+            "age_of_death": null,
+            "has_tombstone": false,
+            "was_officer": false,
+            "family_book": "R5-2715"
         }
     ],
     "links": [
-        {
-            "source": 126391,
-            "target": 126392
-        },
-        {
-            "source": 126412,
-            "target": 126413
-        },
-        {
-            "source": 126430,
-            "target": 126431
-        },
-        {
-            "source": 126464,
-            "target": 126465
-        },
-        {
-            "source": 126484,
-            "target": 126485
-        },
         {
             "source": 126531,
             "target": 126532
@@ -215,12 +185,32 @@
             "target": 126616
         },
         {
-            "source": 126623,
-            "target": 126624
+            "source": 126692,
+            "target": 126693
         },
         {
-            "source": 126653,
-            "target": 126655
+            "source": 126717,
+            "target": 126718
+        },
+        {
+            "source": 126858,
+            "target": 126859
+        },
+        {
+            "source": 126876,
+            "target": 126877
+        },
+        {
+            "source": 126949,
+            "target": 126950
+        },
+        {
+            "source": 126949,
+            "target": 126951
+        },
+        {
+            "source": 126950,
+            "target": 126951
         }
     ]
 }
